@@ -1,9 +1,8 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32-S3 Microcontroller,1,Seeed Studio,$0.00,$0.00,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
-Kailh Choc Low-Profile Switches,3,To be confirmed,$0.00,$0.00,
-SK6812MINI-E Reverse-Mount RGB LEDs,3,To be confirmed,$0.00,$0.00,https://www.digikey.ca/
-Custom MIDI Keypad PCB,1,JLCPCB,$0.00,$0.00,https://jlcpcb.com/
-Capacitive Touch Pads,1,Included in PCB,$0.00,$0.00,
-USB-C Data Cable,1,Existing cable or supplier,$0.00,$0.00,
-Estimated total shipping,1,To be confirmed,$0.00,$0.00,
-Estimated total shipping,1,,,$7.49,
+XIAO ESP32-S3 Microcontroller,1,Seeed Studio,$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
+Kailh Choc Low-Profile Switches,3,Clickety Split,CA$0.88,CA$2.63,https://clicketysplit.ca/products/kailh-choc-switches
+SK6812MINI-E RGB LEDs,3,JLCPCB,$0.0801,$0.24,https://jlcpcb.com/partdetail/SK6812MINI-E/C5149201
+Custom MIDI Keypad PCB,1,JLCPCB,TBD,TBD,https://jlcpcb.com/
+Capacitive Touch Pads,1 set,Included in PCB,$0.00,$0.00,
+USB-C Data Cable,1,Existing cable,$0.00,$0.00,
+Estimated total shipping,1,To be confirmed,TBD,TBD,
