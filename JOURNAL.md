@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvf83g880b3x01rcpnkyald6). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> idk yet
+> making a cool keyboard. has leds switchs and captive buttons. has about 7 captives and 3 leds and 3 switchs
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
